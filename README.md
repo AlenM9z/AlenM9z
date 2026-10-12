@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/anime-tech-banner.png" width="100%" alt="Anime-inspired cyberpunk developer banner"/>
+<img src="file:///home/alen/assets/anime-tech-banner.png" width="100%" alt="Anime-inspired cyberpunk developer banner"/>
 
 <br/>
 
