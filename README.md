@@ -1,30 +1,14 @@
-<div align="center">
+# Alen
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=170&section=header&text=ALEN&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+Maker of things. Admirer of cats.
 
-### 🐈 maker of things, admirer of cats
+Learning tech, building small projects, and sharing little experiments along the way.
 
-*Somewhere between a quiet workshop and a sunlit windowsill.*
+- Languages: English · Japanese · Russian · Hindi
+- GitHub: [@AlenM9z](https://github.com/AlenM9z)
+- Linkedin: [ALen](https://www.linkedin.com/in/alen-a78b31232/?lipi=urn%3Ali%3Apage%3Ap_mwlite_feed%3B6eyoBlhcS6e5wZpRUJNupg%3D%3D)
 
-[![GitHub](https://img.shields.io/badge/GitHub-follow%20along-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/AlenM9z)
+> I like to listen to RnB songs.
+> ☁️ Usually building something—or being supervised by a cat.
 
-
-
-</div>
-
----
-
-✦ **Lately**  
-Learning `The Tech World` · building `Some easy to understand stuffs` · following the occasional cat-shaped distraction
-
-✦ **My little corner of the internet**  
-`English & Japanese & Russian`　`Youtube`　`Little Experiments on Tech Stuffs`
-
-> *A steady hand, a little patience, and something worth making.*
-
-
-<div align="center">
-<img src="https://count.getloli.com/@AlenM9z?theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile visit counter" />
-    <sub>☁️ inspired by careful craft, soft colors, and cats who supervise from a distance</sub>
-    
-</div>
+![Profile visits](https://count.getloli.com/@AlenM9z?theme=asoul&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
